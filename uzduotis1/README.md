@@ -1,4 +1,4 @@
-java_concurrency
+uzduotis1
 ================
 
 University assignment.  
