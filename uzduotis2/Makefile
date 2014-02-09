@@ -1,4 +1,4 @@
 default:
-javac sources/prog2/*.java -d classes/
+        javac sources/prog2/*.java -d classes/
 clean:
-rm classes/prog2/*.class;
+        rm classes/prog2/*.class;
