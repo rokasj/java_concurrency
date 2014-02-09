@@ -2,4 +2,4 @@ uzduotis1
 ================
 
 University assignment.  
-uzduotis1 (ui and commentes are in Lithuanian language).
+uzduotis1 (ui and comments are in Lithuanian language).
